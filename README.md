@@ -23,6 +23,6 @@ isAdult (boolean) - False: non-adult title; True: adult title \
 startYear (YYYY) – represents the release year of a title. In the case of TV Series, it is the series start year \
 endYear (YYYY) – TV Series end year. null for all other title types \
 runtimeMinutes – primary runtime of the title, in minutes \
-genres (string array) – includes up to three genres associated with the title \
+genres (string array) – includes up to three genres associated with the title
 
 Each folder includes details on my understanding of specific Snowflake table structure concepts and how I'd apply them to this data in order to reflect how I would treat a real-world situation. 
