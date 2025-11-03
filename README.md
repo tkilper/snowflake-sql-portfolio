@@ -1,10 +1,6 @@
 
 # Snowflake SQL Portfolio
 
-This project goes over the Snowflake table structure and includes sample SQL queries that apply these concepts to real-world use cases.
-
-# Intro
-
 I am using this sample dataset from IMDB (first 5 rows): 
 
 | id   | titleType |                                primaryTitle                   |                   originalTitle | isAdult | startYear | endYear | runtimeMinutes|                   genres |
@@ -25,4 +21,4 @@ endYear (YYYY) – TV Series end year. null for all other title types \
 runtimeMinutes – primary runtime of the title, in minutes \
 genres (string array) – includes up to three genres associated with the title
 
-Each folder includes details on my understanding of specific Snowflake table structure concepts and how I'd apply them to this data in order to reflect how I would treat a real-world situation. 
+Each folder includes details on my understanding of Snowflake table structure concepts and how I'd apply them to this data in order to reflect how I would treat a real-world situation. 
